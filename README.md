@@ -49,3 +49,6 @@ Back on the Sunshine webpage, click on "PIN". Type the PIN that Moonlight gives 
 On the Sunshine webpage, click on "Applications". Click on Add New. Open CMD and type <strong>whoami</strong>. Put your username in C:\Users<strong>\InsertUsernameHere</strong>\\AppData\Local\Playnite\Playnite.DesktopApp.exe</strong> like so. Then click save on the bottom screen.
 <br><img src="./_images/playnite.jpg"></br>
 
+<strong>8:</strong>
+We have to set the sunshine service to run as your local user. In Windows search, search for services.  Find the sunshinevc service. Right click and click properties. click Log on, then click on the This account radio button and browse. Type your username in and click check name. Once done, it will look like the image below and click apply and ok.
+<br><img src="./_images/services.jpg"></br>
