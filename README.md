@@ -70,7 +70,7 @@ Once added, click on the emulator that uses ESC to exit the emulator. Click Defa
 
 - Stop-Process -Name "AntiMicrox"
 
-<img src="./_images/script.jpg">
+<img src="./_images/Script.jpg">
 
 <strong>11:</strong>
-Congratulations! You're done. Put Playnite in with F11 and enjoy
+Congratulations! You're done. Put Playnite in Fullscreen Mode by pushing F11 and enjoy!
