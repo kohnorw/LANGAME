@@ -52,3 +52,7 @@ On the Sunshine webpage, click on "Applications". Click on Add New. Open CMD and
 <strong>8:</strong>
 We have to set the sunshine service to run as your local user. In Windows search, search for services.  Find the sunshinevc service. Right click and click properties. click Log on, then click on the This account radio button and browse. Type your username in and click check name. Once done, it will look like the image below and click apply and ok.
 <br><img src="./_images/services.jpg"></br>
+
+<strong>9:</strong>
+It's time to setup Antimicrox. Head to the bin folder in the Antimicrox folder and open antimicrox.exe. Make sure it's located in your emulation folder. <strong>This is very important!</strong> [Download this config](./_config/exit.gamecontroller.amgp "download")
+<br><img src="./_images/services.jpg"></br>
