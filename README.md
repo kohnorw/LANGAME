@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img alt="docsify" src="./docs/_media/icon.svg">
+    <img alt="docsify" src="./_media/icon.svg">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <strong>1:</strong>
 Create a folder on your desktop called Emulation and create two folders "Roms" and "Emulators" inside that folder.
-<br><img src="./docs/_images/Emulation.jpg"></br>
+<br><img src="./_images/Emulation.jpg"></br>
 
 <strong>2:</strong>
 Place the antimicrox folder you downloaded in the Emulation folder.
@@ -47,5 +47,5 @@ Back on the Sunshine webpage, click on "PIN". Type the PIN that Moonlight gives 
 
 <strong>7:</strong>
 On the Sunshine webpage, click on "Applications". Click on Add New. Open CMD and type <strong>whoami</strong>. Put your username in C:\Users<strong>\InsertUsernameHere</strong>\\AppData\Local\Playnite\Playnite.DesktopApp.exe</strong> like so. Then click save on the bottom screen.
-<br><img src="./docs/_images/playnite.jpg"></br>
+<br><img src="./_images/playnite.jpg"></br>
 
