@@ -54,7 +54,7 @@ We have to set the sunshine service to run as your local user. In Windows search
 <br><img src="./_images/services.jpg"></br>
 
 <strong>9:</strong>
-It's time to setup Antimicrox. Head to the bin folder in the Antimicrox folder and open antimicrox.exe. Make sure it's located in your emulation folder. <strong>This is very important!</strong> <a id="raw-url" href="./_config/exit.gamecontroller.amgp">Download this config file and place it in the Antimicrox folder.</a> Now we have link the config file. Make sure you have a controller connected to your computer or connected to your device through Moonlight and connect to the computer through Moonlight. Click on load and select the exit config. Now when you press select once, and down on the d-pad it will exit PS2 and Switch games.
+It's time to setup Antimicrox. Head to the bin folder in the Antimicrox folder and open antimicrox.exe. Make sure it's located in your emulation folder. <strong>This is very important!</strong> <a id="raw-url" href="./_config/exit.gamecontroller.amgp">Download this config file and place it in the Antimicrox folder.</a> Now we have to link the config file. Make sure you have a controller connected to your computer or connected to your device through Moonlight and connect to the computer through Moonlight. Click on load and select the exit config. Now when you press select once, and down on the d-pad it will exit PS2 and Switch games.
 <br><img src="./_images/config.jpg"></br>
 
 <strong>10:</strong>
