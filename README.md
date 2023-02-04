@@ -54,5 +54,23 @@ We have to set the sunshine service to run as your local user. In Windows search
 <br><img src="./_images/services.jpg"></br>
 
 <strong>9:</strong>
-It's time to setup Antimicrox. Head to the bin folder in the Antimicrox folder and open antimicrox.exe. Make sure it's located in your emulation folder. <strong>This is very important!</strong> [Download this config](./_config/exit.gamecontroller.amgp "download")
-<br><img src="./_images/services.jpg"></br>
+It's time to setup Antimicrox. Head to the bin folder in the Antimicrox folder and open antimicrox.exe. Make sure it's located in your emulation folder. <strong>This is very important!</strong> <a id="raw-url" href="./_config/exit.gamecontroller.amgp">Download this config file and place it in the Antimicrox folder.</a> Now we have link the config file. Make sure you have a controller connected to your computer or connected to your device through Moonlight and connect to the computer through Moonlight. Click on load and select the exit config. Now when you press select once, and down on the d-pad it will exit PS2 and Switch games.
+<br><img src="./_images/config.jpg"></br>
+
+<strong>10:</strong>
+It's time to set up Playnite. Head to Configure Emulators <br><img src="./_images/playniteconfig.jpg"></br>
+<br></br>
+Click import, Scan folder, and goto the emulators folder in emulation. This will scan the emulators in the folder.
+<img src="./_images/playnitemu.jpg">
+
+<br></br>
+Once added, click on the emulator that uses ESC to exit the emulator. Click Default 32bit then Scripts. Copy these commands and paste them like in the screenshot and click save.
+
+- Start-Process "C:\Users<strong>\InsertUsernameHere</strong>\\Desktop\Emulation<strong>\Antimicroxfolder</strong>\bin\antimicrox.exe"
+
+- Stop-Process -Name "AntiMicrox"
+
+<img src="./_images/script.jpg">
+
+<strong>11:</strong>
+Congratulations! You're done. Put Playnite in with F11 and enjoy
